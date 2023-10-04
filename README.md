@@ -13,4 +13,4 @@ This MIPS assembly code, developed in MARS IDE, implements the quick sort algori
 - The `partition` function is used to find the pivot and divide the array.
 - The `swap` function swaps elements in the array as needed during the sorting process.
 - The sorted array is displayed using system calls.
-
+ 
